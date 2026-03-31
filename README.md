@@ -23,7 +23,7 @@ Dictionary data structure
 ## How to Run
 
 install python (VS Code)
-Run the program: user authentication system.py
+Run the program: email and password check and login system.py
 
 ## How It Works
 
